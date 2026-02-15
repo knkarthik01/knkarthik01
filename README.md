@@ -11,9 +11,3 @@ Data Processing Engines Archiect/Analytics Architect/Engineer building large-sca
 
 **Interests:** Shuffle optimization, petabyte-scale migrations, and making EMR faster for 100+ enterprise customers.
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knkarthik01&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knkarthik01&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
