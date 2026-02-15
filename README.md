@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently contributing to **Apache Spark**
 - ☁️ Specialist in **Amazon EMR & Big Data**
-- 🏆 **Achievements:** Pull Shark, Quickdraw
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=knkarthik01&show_icons=true&theme=radical" height="150" alt="stats graph" />
