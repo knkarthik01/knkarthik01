@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Karthik!
 
-Distributed Systems & Data Processing Architect | 18+ years building systems at scale
+I make distributed data systems faster at petabyte scale.
 
 - 🛠️ **Maintainer** of [aws-emr-utilities](https://github.com/aws-samples/aws-emr-utilities) & [aws-emr-best-practices](https://github.com/aws/aws-emr-best-practices)
 - 📘 **Author** of [EMR Spark Best Practices Guide](https://aws.github.io/aws-emr-best-practices/docs/bestpractices/Applications/Spark/best_practices/) & [AWS Blog](https://aws.amazon.com/blogs/big-data/top-10-best-practices-for-amazon-emr-serverless/)
