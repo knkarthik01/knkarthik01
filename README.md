@@ -6,10 +6,10 @@ Distributed Systems & Data Processing Architect | 18+ years building systems at 
 - 📘 **Author** of [EMR Spark Best Practices Guide](https://aws.github.io/aws-emr-best-practices/docs/bestpractices/Applications/Spark/best_practices/) & [AWS Blog](https://aws.amazon.com/blogs/big-data/top-10-best-practices-for-amazon-emr-serverless/)
 - 🎤 4x **AWS re:Invent speaker**
 - 🔥 Contributing to **Apache Spark** & **Apache Velox**
-- 🔬 [Researcher](https://scholar.google.com/citations?user=wVXqPlMAAAAJ&hl=en)
-- 🎓 MS in Artificial Intelligence
-- 🏆 Pull Shark • Quickdraw
+- 🔬 [Published researcher](https://scholar.google.com/citations?user=wVXqPlMAAAAJ&hl=en) — MS in Artificial Intelligence
 
-**Interests:** Shuffle optimization, query engines, petabyte-scale data processing, and making big data faster for enterprises worldwide.
+**Interests:** Shuffle optimization, query engines, and petabyte-scale data processing.
 
-**Previously:** Built data systems across Fortune 100 tech - from consumer devices 🍎 to streaming 🎬 to fintech to e-commerce to Wall Street regulation.
+**Previously:** 18+ years across Fortune 100 — consumer devices, streaming, fintech, e-commerce, and Wall Street regulation.
+ 
+📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/karthik-prabhakar/).**
