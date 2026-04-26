@@ -10,6 +10,6 @@ I make distributed data systems faster at petabyte scale.
 
 **Interests:** Shuffle optimization, query engines, and petabyte-scale data processing.
 
-**Previously:** 18+ years across Fortune 100 — consumer devices, streaming, fintech, e-commerce, and Wall Street regulation.
+**Previously:** 18+ years across Fortune 100 - consumer devices, streaming, fintech, e-commerce, and Wall Street regulation.
  
 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/karthik-prabhakar/).**
