@@ -8,7 +8,7 @@ Architect on the **Data Processing Engines** team at AWS - Spark, Iceberg, and t
  - 📈 Led Spark performance at PB scale  **45% runtime efficiency** gain and **60% shuffle-spill reduction** across 100+ customers.
  - 📘 Author of the [EMR Spark Best Practices Guide](https://aws.github.io/aws-emr-best-practices/docs/bestpractices/Applications/Spark/best_practices/) and [Top 10 Best Practices for Amazon EMR Serverless](https://aws.amazon.com/blogs/big-data/top-10-best-practices-for-amazon-emr-serverless/) on the AWS Big Data Blog.
  - 🎤 4x **AWS re:Invent speaker** — most recently *ANT339 (2023)* on GoDaddy's EMR Serverless migration: 62% cost reduction, 50% faster execution, 5x faster dev cycles.
- - 🔥 Contributing to **Apache Spark**, **Apache Velox**, and **Karpenter**.
+ - 🔥 Contributing to **Apache Spark**, **Velox**, and **Karpenter**.
  - 🔬 [Published researcher](https://scholar.google.com/citations?user=wVXqPlMAAAAJ&hl=en)  MS in Artificial Intelligence.
 
 🚧 **Currently:** contributing bandwidth-weighting support to Karpenter; advancing GenAI-assisted diagnostics for Spark on EMR.
